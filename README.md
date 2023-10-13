@@ -1,5 +1,10 @@
 # linter-eslint
 
+> [!NOTE]
+> This package was originally created by <ORIGINAL_AUTHORS_NAME> and has now been forked under the [`pulsar-cooperative`](https://github.com/pulsar-cooperative) organization.
+> By forking this package we hope to allow new maintainers to work on this package as needed, without being limited by its previous [archived/unmaintained] status, helping to ensure this package stays up to date and functional for as long as possible without the huge responsibility implied by forking and maintaining this under a personal account.
+> For more info on the Pulsar Cooperative initiative please read [the documentation](link/to/index/doc).
+
 [![CI](https://github.com/AtomLinter/linter-eslint/actions/workflows/CI.yml/badge.svg)](https://github.com/AtomLinter/linter-eslint/actions/workflows/CI.yml)
 [![Dependency Status](https://david-dm.org/AtomLinter/linter-eslint.svg)](https://david-dm.org/AtomLinter/linter-eslint)
 
